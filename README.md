@@ -68,4 +68,4 @@ To know more about the working of different projects, go ahead and explore all t
 
 ## License
 
-Distributed under the GNU License. See <a href = "https://github.com/YashvardhanG/CNN/blob/main/LICENSE"> LICENSE </a> for more information.
+Distributed under the GNU License. See <a href = "https://github.com/MahekPavthawala/human_emotion_recognition/blob/main/LICENSE"> LICENSE </a> for more information.
