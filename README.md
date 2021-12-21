@@ -1,4 +1,6 @@
-# human_emotion_recognition
+# Human_emotion_recognition
+## About
+
 Humans express their emotions on regular basis. Each second of their life is a 
 reaction towards something. Different situation calls for the different emotion. As 
 holidays are close enough, people feel happiness, if something doesn’t go according 
