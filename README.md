@@ -65,3 +65,7 @@ To know more about the working of different projects, go ahead and explore all t
 <br>
 **Note:** Each CNN is different, and you may or may not put both of these steps in the same code.
 <br><br>
+
+## License
+
+Distributed under the GNU License. See <a href = "https://github.com/YashvardhanG/CNN/blob/main/LICENSE"> LICENSE </a> for more information.
