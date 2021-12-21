@@ -69,3 +69,14 @@ To know more about the working of different projects, go ahead and explore all t
 ## License
 
 Distributed under the GNU License. See <a href = "https://github.com/MahekPavthawala/human_emotion_recognition/blob/main/LICENSE"> LICENSE </a> for more information.
+
+## Acknowledgement
+
+<ul>
+  <li><a href = 'https://www.ibm.com/cloud/learn/neural-networks'>Neural Networks</a></li>
+  <li><a href = 'https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939#:~:text=A%20Convolutional%20Neural%20Network%2C%20also,topology%2C%20such%20as%20an%20image.&text=Each%20neuron%20works%20in%20its,cover%20the%20entire%20visual%20field.'>Convolutional Neural Networks</a></li>
+  <li><a href = 'https://towardsdatascience.com/convolutional-neural-network-17fb77e76c05#:~:text=Fully%20Connected%20Layer%20is%20simply,into%20the%20fully%20connected%20layer.'>Working of CNN</a></li>
+  <li><a href = 'https://developers.google.com/machine-learning/glossary/#convolutional_neural_network'>CNN Glossary</a></li>
+  <li><a href = 'https://www.flaticon.com/'>Icons</a></li>
+ <li><a href = 'https://github.com/YashvardhanG/CNN/'>CNN Image Recognition</a></li>
+</ul>
