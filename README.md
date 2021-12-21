@@ -50,3 +50,18 @@ You may head on to <a href = 'https://github.com/YashvardhanG/CNN/tree/main/Imag
 
 **Note:** The dataset is downloaded as soon as you open the main code, but you may also download the CIFAR-10 Dataset Externally. To download the CIFAR-10 Dataset, head on to <a href = 'https://www.cs.toronto.edu/~kriz/cifar.html'>CIFAR-10</a> website.
 <br><br>
+
+## Working
+
+You may explore the working of a Convolutional Neural Network <a href = 'https://towardsdatascience.com/convolutional-neural-network-17fb77e76c05#:~:text=Fully%20Connected%20Layer%20is%20simply,into%20the%20fully%20connected%20layer.'>Here</a>.
+<br><br>
+The working of all the projects can broadly be categorised into two steps:
+<ol>
+  <li><b>Training:</b><br>This is the initialising step, or can be considered as the pre-processing step of a ConvNet. This indeed is the most important steop because this is where the CNN actually learns and understands the purpose of the user-application, and compiles a data model which can be integrated in a main driver code/application. This is the primary step where data is sorted, analysed, processed and arranged. </li><br>
+  <li><b>Testing:</b><br>This is the secondary step of a CNN which includes the usage of the created data model in the previous step. In this step, you will create the driver code/application which will provide a user interface to interact with the dataset in order to carry out a specific operation, for which the application is designed for. This in summary, is the 'fancy' of a CNN.</li><br>
+</ol>
+
+To know more about the working of different projects, go ahead and explore all the <a href="#projects">Projects</a>.
+<br>
+**Note:** Each CNN is different, and you may or may not put both of these steps in the same code.
+<br><br>
